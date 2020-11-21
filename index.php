@@ -2,7 +2,7 @@
 <head>
   
 
-<link rel="stylesheet" type="text/css" href="css/style.css">
+<link rel="stylesheet" type="text/css" href="style.css">
 <body>
   <div class="flower">
     <?xml version="1.0" standalone="no"?>
